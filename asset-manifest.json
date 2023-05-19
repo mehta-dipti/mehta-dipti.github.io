@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.d485349b.css",
+    "main.js": "/react-gh-pages/static/js/main.e0b0535b.js",
+    "static/js/787.1fa44c8c.chunk.js": "/react-gh-pages/static/js/787.1fa44c8c.chunk.js",
+    "static/media/retro.jpg": "/react-gh-pages/static/media/retro.21b10bcf6667188512e6.jpg",
+    "static/media/Ellipse 12.svg": "/react-gh-pages/static/media/Ellipse 12.14ea35e02fde188c7a232dfebcc3ed05.svg",
+    "static/media/Ellipse 11.svg": "/react-gh-pages/static/media/Ellipse 11.957075f1cd5faf8f81866a82811177db.svg",
+    "static/media/Ellipse 5.svg": "/react-gh-pages/static/media/Ellipse 5.6f4782cc59e661661634da4b895b7704.svg",
+    "static/media/Ellipse 1.svg": "/react-gh-pages/static/media/Ellipse 1.bfe4109d453236e8baa798ec048469a8.svg",
+    "static/media/Ellipse 3.svg": "/react-gh-pages/static/media/Ellipse 3.c24bd2000b515baf0f8968a83edb21d9.svg",
+    "static/media/Ellipse 4.svg": "/react-gh-pages/static/media/Ellipse 4.2ffaea1c69a010d13aba15932f85a97b.svg",
+    "static/media/Ellipse 6.svg": "/react-gh-pages/static/media/Ellipse 6.f08dffcdd643b02995327c1c8c532edd.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/Ellipse 2.svg": "/react-gh-pages/static/media/Ellipse 2.557578a525b93966d9933c03f1597f3e.svg",
+    "main.d485349b.css.map": "/react-gh-pages/static/css/main.d485349b.css.map",
+    "main.e0b0535b.js.map": "/react-gh-pages/static/js/main.e0b0535b.js.map",
+    "787.1fa44c8c.chunk.js.map": "/react-gh-pages/static/js/787.1fa44c8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d485349b.css",
+    "static/js/main.e0b0535b.js"
+  ]
+}
